@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>プライバシーポリシー - Instagram DM Bot</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        .highlight {
+            background: linear-gradient(120deg, #a8edea 0%, #fed6e3 100%);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .contact-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-left: 4px solid #667eea;
+            margin: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛡️ プライバシーポリシー</h1>
+        
+        <div class="highlight">
+            <strong>最終更新日:</strong> 2025年9月25日<br>
+            <strong>アプリ名:</strong> Instagram DM Bot
+        </div>
+
+        <h2>📋 1. 収集する情報</h2>
+        <p>本アプリケーションは、Instagram Direct Message機能を通じて以下の情報を処理します：</p>
+        <ul>
+            <li>Instagram ユーザーID</li>
+            <li>受信したメッセージ内容</li>
+            <li>メッセージの送信時刻</li>
+        </ul>
+
+        <h2>🔒 2. 情報の利用目的</h2>
+        <p>収集した情報は以下の目的でのみ使用されます：</p>
+        <ul>
+            <li>自動返信機能の提供</li>
+            <li>サービス品質の向上</li>
+            <li>技術的な問題の解決</li>
+        </ul>
+
+        <h2>💾 3. データの保存と管理</h2>
+        <div class="highlight">
+            <p><strong>重要:</strong> 本アプリケーションは、メッセージデータを永続的に保存しません。すべてのデータはメモリ内でのみ処理され、サーバー再起動時に削除されます。</p>
+        </div>
+
+        <h2>🚫 4. 第三者への情報提供</h2>
+        <p>以下の場合を除き、収集した情報を第三者に提供することはありません：</p>
+        <ul>
+            <li>法的義務により開示が必要な場合</li>
+            <li>ユーザーの同意がある場合</li>
+        </ul>
+
+        <h2>🛡️ 5. セキュリティ対策</h2>
+        <p>収集した情報の保護のため、以下の対策を講じています：</p>
+        <ul>
+            <li>HTTPS通信による暗号化</li>
+            <li>アクセストークンの安全な管理</li>
+            <li>定期的なセキュリティ監査</li>
+        </ul>
+
+        <h2>👤 6. ユーザーの権利</h2>
+        <p>ユーザーには以下の権利があります：</p>
+        <ul>
+            <li>データ処理の停止を要求する権利</li>
+            <li>処理されているデータの確認を要求する権利</li>
+            <li>不正確なデータの修正を要求する権利</li>
+        </ul>
+
+        <h2>📧 7. お問い合わせ</h2>
+        <div class="contact-info">
+            <p><strong>本プライバシーポリシーに関するお問い合わせは、以下までご連絡ください：</strong></p>
+            <p>📧 Email: hinakami0627@gmail.com</p>
+            <p>📱 Instagram: @your_instagram_handle</p>
+        </div>
+
+        <h2>🔄 8. プライバシーポリシーの変更</h2>
+        <p>本プライバシーポリシーは、法律の改正やサービス内容の変更により更新される場合があります。重要な変更がある場合は、適切な方法でユーザーに通知します。</p>
+
+        <div class="footer">
+            <p>このプライバシーポリシーは、Instagram Graph API利用規約および Meta開発者ポリシーに準拠して作成されています。</p>
+            <p>© 2025 Instagram DM Bot. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
